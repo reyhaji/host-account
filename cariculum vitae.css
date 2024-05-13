@@ -1,0 +1,22 @@
+.img1{
+    float: right;
+}
+img{
+    color: red;
+}
+.hr1{
+  border: 3px rgb(135, 247, 135) solid ;
+}
+a:hover{
+color: black;
+}
+a{
+    color: black;
+}
+.p1{
+    color: red;
+}
+span{
+    color: red;
+    size: 20px;
+}
